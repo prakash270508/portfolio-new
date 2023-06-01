@@ -18,47 +18,47 @@ export default function Resume() {
               </div>
               <div class="card-body">
                 <h6 class="title text-danger">E-commerce</h6>
-                <button class="btn btn-outline-danger my-2">
-                  <a href="https://server-1-3hcf.vercel.app/" target="_blank">
+                <a href="https://server-1-3hcf.vercel.app/" target="_blank">
+                  <button class="btn btn-outline-danger my-2">
                     Visit Website
-                  </a>
-                </button>
+                  </button>
+                </a>
                 <p class="subtitle">
                   A Full stack e-commerce website includes user authentication
                   state managment in redux toolkit , paginatton and much more.
                 </p>
                 <hr />
                 <h6 class="title text-danger">Youtube Clone</h6>
-                <button class="btn btn-outline-danger my-2">
-                  <a href="https://mytube-code-era.netlify.app" target="_blank">
+                <a href="https://mytube-code-era.netlify.app" target="_blank">
+                  <button class="btn btn-outline-danger my-2">
                     Visit Website
-                  </a>
-                </button>
+                  </button>
+                </a>
                 <p class="subtitle">
                   This is a youtbe clone where you can find almost every content
                   of youtube for free
                 </p>
                 <hr />
                 <h6 class="title text-danger">Movie Ticket Booking </h6>
-                <button class="btn btn-outline-danger my-2">
-                  <a
-                    href="https://movie-ticket-book-react.vercel.app/"
-                    target="_blank"
-                  >
+                <a
+                  href="https://movie-ticket-book-react.vercel.app/"
+                  target="_blank"
+                >
+                  <button class="btn btn-outline-danger my-2">
                     Visit Website
-                  </a>
-                </button>
+                  </button>
+                </a>
                 <p class="subtitle">
                   A full stack movie ticket booking app where you can easily
                   book your ticket in your favourite theater.
                 </p>
                 <hr />
                 <h6 class="title text-danger">More Websites </h6>
-                <button class="btn btn-outline-danger my-2">
-                  <a href="https://github.com/prakash270508" target="_blank">
+                <a href="https://github.com/prakash270508" target="_blank">
+                  <button class="btn btn-outline-danger my-2">
                     Visit my github
-                  </a>
-                </button>
+                  </button>
+                </a>
                 <p class="subtitle">
                   To see all my works please visit my github.
                 </p>

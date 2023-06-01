@@ -15,17 +15,15 @@ export default function About() {
             work in a challenging environment to prove my skills and utilize my
             knowledge & intelligence in the growth of the organization
           </p>
-          <button class="btn btn-outline-danger">
-            <i class="icon-down-circled2 "></i>
-            <a
-              href="http://res.cloudinary.com/dey09e5yr/image/upload/v1685623935/uploads/gn8s2lhvqolxs6nrks8z.jpg"
-              download
-              target="_blank"
-            >
-              {" "}
-              Download My Cv
-            </a>
-          </button>
+          <a
+            href="http://res.cloudinary.com/dey09e5yr/image/upload/v1685623935/uploads/gn8s2lhvqolxs6nrks8z.jpg"
+            download
+            target="_blank"
+          >
+            <button class="btn btn-outline-danger">
+              <i class="icon-down-circled2 "></i> Download My Cv
+            </button>
+          </a>
         </div>
         <div class="col-lg-4 about-card">
           <h3 class="font-weight-light">Personal Info</h3>

@@ -3213,6 +3213,11 @@ fieldset:disabled a.btn {
   background-color: #F85C70;
   border-color: #F85C70;
 }
+.btn-outline-danger a:hover {
+  color: #fff;
+  background-color: #F85C70;
+  border-color: #F85C70;
+}
 
 .btn-outline-danger:focus, .btn-outline-danger.focus {
   box-shadow: 0 0 0 0.2rem rgba(248, 92, 112, 0.5);
