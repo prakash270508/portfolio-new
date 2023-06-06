@@ -7,7 +7,10 @@ export default function HireMe() {
         <h2 class="text-light mb-5 font-weight-normal">
           I Am Available For FreeLance
         </h2>
-        <button class="btn bg-primary w-lg">Hire me</button>
+        <a href="#contact">
+          <button class="btn bg-primary w-lg">Hire me</button>
+        </a>
+        {/* <button class="btn bg-primary w-lg">Hire me</button> */}
       </div>
     </section>
   );

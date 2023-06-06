@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Contect() {
   return (
-    <div class="section contact" id="contact" style={{marginTop:"2vw"}}>
+    <div class="section contact" id="contact" style={{ marginTop: "2vw" }}>
       <div id="map" class="map">
         <iframe
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14643.78029088155!2d83.98006679307211!3d25.56208379213321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3991c8a4e32aaf83%3A0xb2529e9a8132dd52!2sBuxar%2C%20Bihar!5e0!3m2!1sen!2sin!4v1622572402930!5m2!1sen!2sin"
@@ -63,7 +63,7 @@ export default function Contect() {
                 <div class="col-10 ">
                   <h6 class="d-inline">
                     Phone : <br />{" "}
-                    <span class="text-muted">+ (123) 456-789</span>
+                    <span class="text-muted">+91 7079485607</span>
                   </h6>
                 </div>
               </div>
@@ -74,9 +74,7 @@ export default function Contect() {
                 <div class="col-10">
                   <h6 class="d-inline">
                     Address :<br />{" "}
-                    <span class="text-muted">
-                      12345 Fake ST NoWhere AB Country.
-                    </span>
+                    <span class="text-muted">Buxar , Bihar (India)</span>
                   </h6>
                 </div>
               </div>
@@ -87,34 +85,57 @@ export default function Contect() {
                 <div class="col-10">
                   <h6 class="d-inline">
                     Email :<br />{" "}
-                    <span class="text-muted">info@website.com</span>
+                    <span class="text-muted">priyprakashpandey@gmail.com</span>
                   </h6>
                 </div>
               </div>
               <ul class="social-icons pt-4">
                 <li class="social-item">
-                  <a class="social-link text-dark" href="#">
-                    <i class="ti-facebook" aria-hidden="true"></i>
+                  <a
+                    class="social-link text-dark"
+                    target="_blank"
+                    href="https://twitter.com/PrakashP0508"
+                  >
+                    <i
+                      class="ti-twitter"
+                      title="twitter"
+                      aria-hidden="true"
+                    ></i>
                   </a>
                 </li>
                 <li class="social-item">
-                  <a class="social-link text-dark" href="#">
-                    <i class="ti-twitter" aria-hidden="true"></i>
+                  <a
+                    class="social-link text-dark"
+                    target="_blank"
+                    href="https://www.linkedin.com/in/prakash-pandey-78313724a/"
+                  >
+                    <i
+                      class="ti-linkedin"
+                      title="linkedin"
+                      aria-hidden="true"
+                    ></i>
                   </a>
                 </li>
                 <li class="social-item">
-                  <a class="social-link text-dark" href="#">
-                    <i class="ti-google" aria-hidden="true"></i>
+                  <a
+                    class="social-link text-dark"
+                    target="_blank"
+                    href="https://www.instagram.com/prakashpandey_0508/?next=%2F"
+                  >
+                    <i
+                      class="ti-instagram"
+                      title="instagram"
+                      aria-hidden="true"
+                    ></i>
                   </a>
                 </li>
                 <li class="social-item">
-                  <a class="social-link text-dark" href="#">
-                    <i class="ti-instagram" aria-hidden="true"></i>
-                  </a>
-                </li>
-                <li class="social-item">
-                  <a class="social-link text-dark" href="#">
-                    <i class="ti-github" aria-hidden="true"></i>
+                  <a
+                    class="social-link text-dark"
+                    target="_blank"
+                    href="https://github.com/prakash270508"
+                  >
+                    <i class="ti-github" title="github" aria-hidden="true"></i>
                   </a>
                 </li>
               </ul>
