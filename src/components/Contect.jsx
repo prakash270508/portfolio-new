@@ -16,12 +16,13 @@ export default function Contect() {
           <div class="col-lg-8">
             <div class="contact-form-card">
               <h4 class="contact-title">Send a message</h4>
-              <form action="">
+              <form action="https://formspree.io/f/mrgvwlyv" method="POST">
                 <div class="form-group">
                   <input
                     class="form-control"
                     type="text"
                     placeholder="Name *"
+                    name="name"
                     required
                   />
                 </div>
@@ -30,6 +31,7 @@ export default function Contect() {
                     class="form-control"
                     type="email"
                     placeholder="Email *"
+                    name="email"
                     required
                   />
                 </div>
@@ -39,6 +41,7 @@ export default function Contect() {
                     id=""
                     placeholder="Message *"
                     rows="7"
+                    name="message"
                     required
                   ></textarea>
                 </div>
